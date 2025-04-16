@@ -1,1 +1,40 @@
-[{"Name":"Renaissance (supported)","UoServerUrl":"login.uorenaissance.com","UoServerPort":"2593","FileDownloadServerUrl":"uorenaissance.com","FileDownloadServerPort":"80","ClientVersion":"5.0.8.3","UseEncryption":false,"ClientPathForUnityEditor":"","AllFilesDownloaded":false,"PreferExternalStorage":false,"SupportedServer":true},{"Name":"UOAlive (supported)","UoServerUrl":"login.uoalive.com","UoServerPort":"2593","FileDownloadServerUrl":"mobile.uoalive.com/uoalive_v1.zip","FileDownloadServerPort":"80","ClientVersion":"7.0.102.3","UseEncryption":false,"ClientPathForUnityEditor":"","AllFilesDownloaded":false,"PreferExternalStorage":false,"SupportedServer":true},{"Name":"Unchained","UoServerUrl":"login.patchuo.com","UoServerPort":"2593","FileDownloadServerUrl":"patchuo.b-cdn.net/MobileUO.zip","FileDownloadServerPort":"80","ClientVersion":"7.0.10.3","UseEncryption":false,"ClientPathForUnityEditor":"","AllFilesDownloaded":false,"PreferExternalStorage":false,"SupportedServer":true}]
+[
+  {
+    "Name":"Renaissance (supported)",
+    "UoServerUrl":"login.uorenaissance.com",
+    "UoServerPort":"2593",
+    "FileDownloadServerUrl":"uorenaissance.com",
+    "FileDownloadServerPort":"80","ClientVersion":"5.0.8.3",
+    "UseEncryption":false,
+    "ClientPathForUnityEditor":"",
+    "AllFilesDownloaded":false,
+    "PreferExternalStorage":false,
+    "SupportedServer":true
+  },
+  {
+    "Name":"Unchained",
+    "UoServerUrl":"login.patchuo.com",
+    "UoServerPort":"2593",
+    "FileDownloadServerUrl":"patchuo.b-cdn.net/MobileUO.zip",
+    "FileDownloadServerPort":"80",
+    "ClientVersion":"7.0.10.3",
+    "UseEncryption":false,
+    "ClientPathForUnityEditor":"",
+    "AllFilesDownloaded":false,
+    "PreferExternalStorage":false,
+    "SupportedServer":true
+  },
+  {
+    "Name":"UOAlive (supported)",
+    "UoServerUrl":"login.uoalive.com",
+    "UoServerPort":"2593",
+    "FileDownloadServerUrl":"mobile.uoalive.com/uoalive_v1.zip",
+    "FileDownloadServerPort":"80",
+    "ClientVersion":"7.0.102.3",
+    "UseEncryption":false,
+    "ClientPathForUnityEditor":"",
+    "AllFilesDownloaded":false,
+    "PreferExternalStorage":false,
+    "SupportedServer":true
+  }
+]
