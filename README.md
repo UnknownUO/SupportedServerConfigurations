@@ -1,0 +1,1 @@
+# SupportedServerConfigurations
