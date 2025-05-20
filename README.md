@@ -19,7 +19,7 @@ To get your shard added to the list of supported shards for MobileUO, create a n
     "AllFilesDownloaded":false,
     "PreferExternalStorage":false,
     "SupportedServer":true
-  },
+},
 ```
 
 Please keep the list sorted alphabetically by Name.
@@ -46,4 +46,4 @@ Please keep the list sorted alphabetically by Name.
 
 **SupportedServer:** leave true
 
-We will review your shard's configuration before approving and merging your PR. Once merged, all MobileUO user's will see the shard listed under supported shards.
+We will review your shard's configuration before approving and merging your PR. Once merged, all MobileUO users will see the shard listed under supported shards.
