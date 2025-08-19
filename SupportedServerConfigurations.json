@@ -29,7 +29,7 @@
     "Name":"Unchained",
     "UoServerUrl":"login.patchuo.com",
     "UoServerPort":"2593",
-    "FileDownloadServerUrl":"patchuo.b-cdn.net/MobileUO.zip",
+    "FileDownloadServerUrl":"mobile-unch.b-cdn.net/MobileUO.zip",
     "FileDownloadServerPort":"80",
     "ClientVersion":"7.0.10.3",
     "UseEncryption":false,
